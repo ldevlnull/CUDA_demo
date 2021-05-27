@@ -1,5 +1,5 @@
 # CUDA_demo
-Demonstration of CUDA multi-thread optimization using matrices multiplication as an example.
+## Demonstration of CUDA multi-thread optimization using matrices multiplication as an example.
 
 Compile using command:
 
