@@ -3,12 +3,12 @@ Demonstration of CUDA multi-thread optimization using matrices multiplication as
 
 Compile using command:
 
-nvcc -o <compiled_file> <sourcefile.cu>
+```nvcc -o <compiled_file> <sourcefile.cu>```
 
 or if using cublas
 
-nvcc -o <compiled_file> <sourcefile.cu> -lcublas
+```nvcc -o <compiled_file> <sourcefile.cu> -lcublas```
 
 Run with simple:
 
-./<compiled_file>
+```./<compiled_file>```
